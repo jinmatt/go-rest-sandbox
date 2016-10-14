@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"goJsonRest/app/types"
+	"go-rest-sandbox/app/types"
 	"sync"
 
 	"github.com/ant0ine/go-json-rest/rest"

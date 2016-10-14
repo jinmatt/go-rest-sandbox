@@ -1,4 +1,4 @@
-package: goJsonRest
+package: go-rest-sandbox
 import:
 - package: github.com/ant0ine/go-json-rest
   version: ~3.3.1

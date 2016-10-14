@@ -1,7 +1,7 @@
 package app
 
 import (
-	"goJsonRest/app/controllers"
+	"go-rest-sandbox/app/controllers"
 
 	"github.com/ant0ine/go-json-rest/rest"
 )

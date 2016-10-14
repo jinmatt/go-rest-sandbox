@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"goJsonRest/app"
+	"go-rest-sandbox/app"
 
 	"github.com/ant0ine/go-json-rest/rest"
 )
